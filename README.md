@@ -18,7 +18,7 @@
 ## С чем работал
 Java, Git, Maven, Spring, Spring Boot, Spring Data JPA, Hibernate, SQL, PostgreSQL, QueryDSL, Liquibase, JDBC, SQLite, JUnit, Postman, Docker, Swagger, Docker-compose, Lombok, MapStruct, VPS на Ubuntu
 
-[LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gulllak&theme=dark)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gulllak&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **gulllak/gulllak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
