@@ -15,9 +15,10 @@
 Я занимаюсь разработкой приложений на Java уже продолжительное время. Работал над проектами, используя стек: Spring Boot, Spring Data JPA, Hibernate и Liquibase. Занимался деплоем микросервисных приложений на VPS-сервера и развертыванием многоконтейнерных приложений.
 Имею опыт как индивидуальной работы, так и участия в командных проектах. Быстро учусь, способный справляться с поставленными задачами в срок, желающий работать и развиваться. Получаю удовольствие от работающего результата.
 
-## С чем работал
+### С чем работал
 Java, Git, Maven, Spring, Spring Boot, Spring Data JPA, Hibernate, SQL, PostgreSQL, QueryDSL, Liquibase, JDBC, SQLite, JUnit, Postman, Docker, Swagger, Docker-compose, Lombok, MapStruct, VPS на Ubuntu
 
+#### Регулярно развиваю свои навыки решая задачки на Литкоде.
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gulllak&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
